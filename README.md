@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danilo Lucban</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img src="https://lh6.googleusercontent.com/proxy/7BS3EH6Q_1vPPg_u4x7D1uEfC6Wdb-CHuihpC4SjcAHnmCcd45gANONrRdks8mub8Tg_L7b-RqJzgecr3uPI8KWRMCUgLiQ3VnrTS6Xt" width="600%" height="500vh">
+<img src="https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.gif" width="200%" height="500vh">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannnluvs&label=Profile%20views&color=0e75b6&style=flat" alt="dannnluvs" /> </p>
 
